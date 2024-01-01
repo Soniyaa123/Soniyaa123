@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniyaa123&label=Profile%20views&color=0e75b6&style=flat" alt="soniyaa123" /> </p>
 
-- 🔭 I’m currently working on **making a fictional static responsive website**
+- 🔭 I’m currently working on **making a fictional responsive website**
 
 - 🌱 I’m currently learning **Java Script**
 
