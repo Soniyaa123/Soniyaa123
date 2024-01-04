@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **making a fictional responsive website**
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **soniyakhadka545@gmail.com**
 
