@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soniya</h1>
-<h3 align="center">A Graphic Designer learning Frontend Development</h3>
+<h3 align="center">A Graphic Designer learning Frontend Development</h3><br>
 
-[![](https://visitcount.itsvg.in/api?id=Soniyaa123&icon=0&color=0)](https://visitcount.itsvg.in)
-<br>
+
 
 - 🔭 I’m currently working on **making a fictional responsive website**
 
