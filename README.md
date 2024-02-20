@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **making a fictional responsive website**
 
 - 🌱 I’m currently learning **JavaScript**
 
