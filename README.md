@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soniya</h1>
 <h3 align="center">A Graphic Designer learning Frontend Development</h3><br>
-<p align="center"><a href = "https://soniyaa123.github.io/" align="center">soniyaa123.github.io</a></p>
 
 
 
