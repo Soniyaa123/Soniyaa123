@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soniya</h1>
+<h3 align="center">A Graphic Designer learning Frontend Development</h3><br>
 
 
 
